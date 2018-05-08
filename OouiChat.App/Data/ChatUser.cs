@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace OouiChat.Data
+﻿namespace OouiChat.App.Data
 {
     public class ChatUser
     {

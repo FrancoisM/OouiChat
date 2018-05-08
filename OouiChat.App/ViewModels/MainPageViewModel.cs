@@ -1,10 +1,8 @@
 ﻿using System;
 using MvvmHelpers;
-using OouiChat.Data;
-using System.Linq;
-using Xamarin.Forms;
+using OouiChat.App.Data;
 
-namespace OouiChat.ViewModels
+namespace OouiChat.App.ViewModels
 {
     public class MainPageViewModel : BaseViewModel
     {

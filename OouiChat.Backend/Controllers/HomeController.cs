@@ -1,9 +1,8 @@
 using System;
 using Microsoft.AspNetCore.Mvc;
 using Ooui.AspNetCore;
+using OouiChat.App.UI;
 using Xamarin.Forms;
-
-using OouiChat.UI;
 
 namespace OouiChat.Controllers
 {
